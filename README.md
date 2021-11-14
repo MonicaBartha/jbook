@@ -13,3 +13,5 @@ In the project directory, you can run:
 - bundleing in the browser: get react module from
   unpkg.com/react
 - created a ES build plugin
+- fetch modules
+- implementing caching using IndexedDB
